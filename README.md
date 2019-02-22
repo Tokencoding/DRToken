@@ -1,6 +1,6 @@
 #DRToken
 DRToken
-STAR UNIT COIN Internet block chain All code pragma solidity ^0.4.16;
+Dong Rui Token Internet block chain All code pragma solidity ^0.4.16;
 contract owned { address public owner;
 function owned() public {
     owner = msg.sender;
